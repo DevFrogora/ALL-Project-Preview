@@ -1,8 +1,8 @@
 [
     {
-        id: 1,
-        title: 'Swimming',
-        link: 'https://github.com/DevFrogora/ALL-Project-Preview/blob/master/battleField/GIF%2022-05-2022%2008-33-47.gif?raw=true',
+        "id": 1,
+        "title" : 'Swimming',
+        "link": 'https://github.com/DevFrogora/ALL-Project-Preview/blob/master/battleField/GIF%2022-05-2022%2008-33-47.gif?raw=true',
     },
     {
         id: 2,
